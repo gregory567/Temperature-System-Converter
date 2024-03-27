@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1711539790 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\umrechnung von temperatursystemen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"selectSystem.h"
+	"convertTemperature.h"
+
+1711539568 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\umrechnung von temperatursystemen\selectsystem.c
+	<stdio.h>
+	<stdlib.h>
+
+1711539430 c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\umrechnung von temperatursystemen\selectsystem.h
+
+1711539785 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\umrechnung von temperatursystemen\converttemperature.c
+	<stdio.h>
+	<stdlib.h>
+
+1711539712 c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\umrechnung von temperatursystemen\converttemperature.h
+
